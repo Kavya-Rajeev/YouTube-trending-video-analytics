@@ -4,7 +4,7 @@
 This project analyzes trending YouTube video data from 4 countries (US, IN, GB, JP) to uncover viewer behavior, category popularity, sentiment trends, and regional comparisons. It combines Python-based data processings with Tableau-based dashboard visualizations.
 
 ## Dataset
-< a href="https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=US_category_id.json"> YouTube Trending Video Dataset (updated daily) </a>- From which data from 4 regions were analyzed
+<a href="https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=US_category_id.json"> YouTube Trending Video Dataset (updated daily) </a>- From which data from 4 regions were analyzed
 
 ## Tools Used
 - **Python (Pandas, Seaborn, TextBlob)** – For data cleaning, transformation, sentiment analysis
