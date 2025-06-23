@@ -23,6 +23,6 @@ This project analyzes trending YouTube video data from 4 countries (US, IN, GB, 
 6. Designed an interactive dashboard in Tableau
 
 ## Deliverables
-- Jupyter notebook with complete code
-- Tableau dashboard and charts screenshots
-- 2-page final project report (PDF)
+<a href="https://github.com/Kavya-Rajeev/YouTube-trending-video-analytics/blob/main/Youtube_trend_analysis.ipynb">Youtube_trend_analysis.ipynb </a>- Jupyter notebook with complete code
+<a href="https://github.com/Kavya-Rajeev/YouTube-trending-video-analytics/blob/main/Visualizations_Screenshot.pdf">Visualizations_Screenshot.pdf </a>- Tableau dashboard and charts screenshots
+<a href="https://github.com/Kavya-Rajeev/YouTube-trending-video-analytics/blob/main/Youtube%20project%20report.pdf">Youtube_project_report.pdf</a>- 2-page final project report (PDF)
