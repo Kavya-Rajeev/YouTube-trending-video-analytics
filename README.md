@@ -1,6 +1,6 @@
 # YouTube-trending-video-analytics
 
-## Project Objective
+## Project Overview
 This project analyzes trending YouTube video data from 4 countries (US, IN, GB, JP) to uncover viewer behavior, category popularity, sentiment trends, and regional comparisons. It combines Python-based data processings with Tableau-based dashboard visualizations.
 
 ## Dataset
@@ -22,7 +22,7 @@ This project analyzes trending YouTube video data from 4 countries (US, IN, GB, 
    - Sentiment distribution
 6. Designed an interactive dashboard in Tableau
 
-## Deliverables
+## Files included
 <a href="https://github.com/Kavya-Rajeev/YouTube-trending-video-analytics/blob/main/Youtube_trend_analysis.ipynb">Youtube_trend_analysis.ipynb </a>- Jupyter notebook with complete code
 
 <a href="https://github.com/Kavya-Rajeev/YouTube-trending-video-analytics/blob/main/Visualizations_Screenshot.pdf">Visualizations_Screenshot.pdf </a>- Tableau dashboard and charts screenshots
